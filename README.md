@@ -1,7 +1,7 @@
-# paper.dash.org
-JavaScript Client-Side Dash Wallet Generator
+# address.papelco.in
+JavaScript Client-Side Papel Wallet Generator
 
-Now Dash addresses and their corresponding private key can be conveniently
+Now Papel addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
 ## Installation
@@ -55,10 +55,10 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The paper.dash.org project, software and embedded resources are
-copyright The Dash Developers.
+The address.papelco.in project, software and embedded resources are
+copyright The Papel Developers.
 
-The paper.dash.org name, Dash name and logo are not part of the open source
+The address.papelco.in name, Papel name and logo are not part of the open source
 license.
 
 The bitaddress.org project, software and embedded resources are
